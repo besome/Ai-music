@@ -1,0 +1,9 @@
+Para uso completo do gerador de audios metroidvania 8bit
+é necessário possuir as seguintes bibliotecas instaladas:
+- wave
+- random
+- numpy
+- mido
+- music21
+
+ALém do python na versão mais atual.
